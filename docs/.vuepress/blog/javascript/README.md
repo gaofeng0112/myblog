@@ -1,2 +1,0 @@
-#javascript
-这是javascript的内容
